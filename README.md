@@ -69,3 +69,6 @@ Used to delete a user's information from players.csv after they have been banned
 
 !dm [tag_user] [message]
 Direct message a user with the bot.
+
+!revert [game_id]
+Reverses everything that !result does
