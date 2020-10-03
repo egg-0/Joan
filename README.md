@@ -45,7 +45,7 @@ Secretely selects n users
 
 ## Minor functions
 
-!fuedal [number_vills] [loom] [your_time]
+!feudal [number_vills] [loom] [your_time]
 Optimal time and idle time for fuedal age
 
 !castle [number_vills] [loom] [your_time]
