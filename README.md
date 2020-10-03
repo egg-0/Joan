@@ -1,10 +1,23 @@
-# Project Title
+# Joan
 
-One Paragraph of project description goes here
+Joan is a bot writen in Python for my Age of Empires 2 Discord server. Every user on the server has a rating (roughly corresponding to their 1v1 rating). This rating is used to automatically balance team games. The bot can be used to generate balanced civs suited to their position (no more Inca pocket). The main packages used are: `discord`, `pandas`, `random`.
 
-## Getting Started
+## Functions
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+!civs [game_type] [tier_1] [tier_2]
+This function randomly generates civilisations to play with
+
+!stats [tag_user]
+This function 
+
+!set
+Used to set data in players.csv
+
+!get
+Used to get data from players.csv
+
+!my_steam_id
+Used by players on joining the server to associate their steam ID with their Discord ID (required to unlock the rest of the server)
 
 ### Prerequisites
 
